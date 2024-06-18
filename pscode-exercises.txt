@@ -21,10 +21,16 @@ Write pseudo code that will perform the following.
 
 a) Read in 5 separate numbers.   
 b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
 
-create input function to allow numbers to be entered. def (A,B,C,D,E)
-when 5 numbers are entered, add all numbers together. def (A+B+C+D+E=sum)
-take total sum of the 5 numbers added to eachother and divide by 5. def sum / 5 = ave
-ave = average of numbers that were entered.
+take in each number entered and order them from smallest value to largest value.
+B) add all numbers entered together and then divide by 5.  the number given after the division is your average.
+C) since we ordered the numbers from smallest value to largest value, take the first and last number to get the highest and lowest number.
+
+-- END --
+
+
+
 
 
